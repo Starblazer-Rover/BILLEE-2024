@@ -1,0 +1,18 @@
+[submodule "manual_movement"]
+	path = manual_movement
+	url = https://github.com/Starblazer-Rover/manual_movement.git
+[submodule "sensors"]
+	path = sensors
+	url = https://github.com/Starblazer-Rover/sensors.git
+[submodule "realsense_camera"]
+	path = realsense_camera
+	url = git@github.com:Starblazer-Rover/realsense_camera.git
+[submodule "odometry_frame"]
+	path = odometry_frame
+	url = git@github.com:Starblazer-Rover/odometry_frame.git
+[submodule "map_frame"]
+	path = map_frame
+	url = git@github.com:Starblazer-Rover/map_frame.git
+[submodule "billee_bot"]
+	path = billee_bot
+	url = git@github.com:Starblazer-Rover/billee_bot.git
